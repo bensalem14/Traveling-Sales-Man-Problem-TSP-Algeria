@@ -1,0 +1,145 @@
+City,Adjacent province,Distance,Route
+Adrar,Tamanrasset,1063,N1
+Adrar,Tindouf,1190,N6-N50
+Adrar,Timimoun,210,N6-N51
+Adrar,Bordj Badji Mokhtar,779,N6
+Adrar,Beni Abbes,367,N6
+Adrar,In Salah,393,N6-N52
+Chlef,Mostaganem,136,A1
+Chlef,Tissemsilt,110,N19
+Chlef,Tipaza,161,A1
+Chlef,Ain Defla,73.6,A1
+Chlef,Relizane,97,A1
+Laghouat,Tiaret,267,N23
+Laghouat,Djelfa,108,N1
+Laghouat,El Bayedh,204,N47
+Laghouat,Ghardaia,194,N1
+Oum El Bouaghi,Batna,117,W9-W26
+Oum El Bouaghi,Tebessa,120,N10
+Oum El Bouaghi,Guelma,100,N102-N20
+Oum El Bouaghi,Constantine,81,N10-N3
+Oum El Bouaghi,Khenchela,56.6,N32
+Oum El Bouaghi,Souk-Ahras,114,N32-W19A
+Oum El Bouaghi,Mila,145,A1
+Batna,Biskra,113,N3
+Batna,Setif,133,N75
+Batna,Msila,179,N40-N28
+Batna,Khenchela,40,N88
+Batna,Mila,141,N3
+Bejaia,Bouira,142,A1
+Bejaia,Tizi Ouzou,122,N12
+Bejaia,Jijel,90.4,N43-N9
+Bejaia,Setif,108,N9
+Bejaia,Bordj Bou Arreridj,165,A1
+Biskra,Msila,179,N40
+Biskra,El Oued,224,N48-N3
+Biskra,Khenchela,206,N83
+Biskra,Ouled Djellal,91,W61
+Biskra,El Meghaier,123,N3
+Bechar,El Bayedh,443,N47-N6
+Bechar,Naama,320,N6
+Bechar,Timimoun,550,N6
+Bechar,Beni Abbes,234,N6B
+Blida,Bouira,134,A1
+Blida,Alger,50.6,A1
+Blida,Medea,43.7,N1
+Blida,Boumerdes,76.1,N5-A1
+Blida,Tipaza,48,N67
+Blida,Ain Defla,114,A1
+Bouira,Tizi Ouzou,116,N12-A1
+Bouira,Medea,169,A1
+Bouira,Msila,130,N60-A1
+Bouira,Bordj Bou Arreridj,97.1,A1
+Bouira,Boumerdes,79.5,N5-A1
+Tamanrasset,Bordj Badji Mokhtar,573,B.B
+Tamanrasset,In Salah,665,N1
+Tamanrasset,In Guezzam,390,N1
+Tamanrasset,Djanet,703,N55
+Tebessa,El Oued,321,N16
+Tebessa,Khenchela,113,N88-N10
+Tebessa,Souk-Ahras,126,N16
+Tlemcen,Sidi Bel Abbes,92,A1
+Tlemcen,Naama,238,N22
+Tlemcen,Ain Temouchent,76,N35A-N22
+Tiaret,Djelfa,255,N1-N40
+Tiaret,Saida,141,N14
+Tiaret,Mascara,129,N91-N23
+Tiaret,El Bayedh,212,N111
+Tiaret,Tissemsilt,55.5,N14
+Tiaret,Relizane,96.1,N23
+Tizi Ouzou,Boumerdes,62.3,N12
+Alger,Boumerdes,46.5,N5-N11
+Alger,Tipaza,70.6,Rocade
+Djelfa,Medea,224,N1
+Djelfa,Msila,179,N64
+Djelfa,Ouargla,493,N1
+Djelfa,Tissemsilt,215,N1
+Djelfa,Ghardaia,303,N1
+Djelfa,Ouled Djellal,236,N70-N46
+Jijel,Setif,128,N43-N9
+Jijel,Skikda,146,N43
+Jijel,Constantine,139,N47
+Jijel,Mila,97.8,N27-N43
+Setif,Msila,129,N45-A1
+Setif,Bordj Bou Arreridj,70.5,A1
+Setif,Mila,128,A1
+Saida,Sidi Bel Abbes,95.8,N92-N94
+Saida,Mascara,73,N6
+Saida,El Bayedh,198,N6A-N6
+Skikda,Annaba,110,N44
+Skikda,Guelma,99.7,N80-A1
+Skikda,Constantine,94.6,A1
+Skikda,Mila,126,A1
+Sidi Bel Abbes,Mascara,83.6,N17-N7
+Sidi Bel Abbes,Oran,93.2,A1
+Sidi Bel Abbes,El Bayedh,267,N61-N109
+Sidi Bel Abbes,Naama,263,N6-N109
+Sidi Bel Abbes,Ain Temouchent,63,N101
+Annaba,Guelma,64.3,N21
+Annaba,El Taref,66.7,N44
+Guelma,Constantine,135,A1
+Guelma,El Taref,109,N44
+Guelma,Souk-Ahras,73.6,N20
+Constantine,Mila,57,N79
+Medea,Msila,233,N40
+Medea,Tissemsilt,174,W19-N1
+Medea,Ain Defla,132,A1
+Mostaganem,Mascara,80.4,RN17A-N17
+Mostaganem,Oran,81,N11
+Mostaganem,Relizane,76.7,W12
+Msila,Bordj Bou Arreridj,59.7,N45
+Msila,Ouled Djellal,209,N46
+Mascara,Oran,97.7,N6
+Mascara,Relizane,64.5,N7
+Ouargla,Illizi,1054,N3
+Ouargla,El Oued,258,N16-N3-N56
+Ouargla,Ghardaia,194,N94
+Ouargla,Ouled Djellal,364,N3
+Ouargla,In Salah,799,N1
+Ouargla,Touggourt,162,N3-N56
+Ouargla,El Meghaier,260,N3-N56
+Ouargla,El Menia,409,N1-N49
+Oran,Ain Temouchent,77.8,N2
+El Bayedh,Naama,199,N6-N6A
+El Bayedh,Ghardaia,393,N1
+El Bayedh,Timimoun,614,N6B
+El Bayedh,Beni Abbes,674,N6-N47
+El Bayedh,El Menia,630,N1-N107
+Illizi,In Salah,1258,N1-N55
+Illizi,Djanet,407,N3
+El Taref,Souk-Ahras,85.2,N82
+Tindouf,Beni Abbes,848,N50
+Tissemsilt,Ain Defla,127,N14
+Tissemsilt,Relizane,152,N23-N14
+El Oued,Khenchela,336,W149-N16
+El Oued,Touggourt,95.3,N16
+El Oued,El Meghaier,160,N3
+Tipaza,Ain Defla,114,A1
+Ghardaia,El Menia,274,N1
+Timimoun,Beni Abbes,341,N6-N51
+Timimoun,In Salah,636,N1-N51
+Timimoun,El Menia,360,N51
+Bordj Badji Mokhtar,In Guezzam,960,N1-B.B
+Ouled Djellal,El Meghaier,107,N3-RN46A
+In Salah,El Menia,402,N1
+Touggourt,El Meghaier,100,N3
