@@ -22,6 +22,9 @@ The data was inserted manually and taken from GoogleMaps meaning possible mistak
 ## Results
 The results will be displayed in an html file containing the folium map under the naming convention of **'Algorithm_map.html'**.the paths and cost of the path will be rpinted on the console , as for concorde it will print it's own cost so no need to calculate it.
 
+## Notes
+You have to download the Concorde and pyconcorde to be able to apply it , follow the installation commands  [here](https://github.com/jvkersch/pyconcorde) . if the installation fails try using pip3 instead of **pip3 install .** instead of **pip install -e .**
+
 ## Contributing
 Contributions to this repository are welcome. If you have any improvements, bug fixes, or additional algorithms to propose, please feel free to submit a pull request.If you encounter any issues or have suggestions, please open an issue in the GitHub repository, and I'll be happy to assist you.
 
